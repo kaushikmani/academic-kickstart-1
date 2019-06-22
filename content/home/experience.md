@@ -24,8 +24,7 @@ date_format = "Jan 2006"
   location = "Columbus"
   date_start = "2018-10-01"
   date_end = ""
-  description = "Exploring deep learning strategies to improve quality of information extracted from clinical notes.
-  Advisor: [Dr. Huan Sun] (http://web.cse.ohio-state.edu/~sun.397/)."
+  description = "Exploring deep learning strategies to improve quality of information extracted from    clinical notes. Advisor: [Dr. Huan Sun] (http://web.cse.ohio-state.edu/~sun.397/)."
 
 
 [[experience]]
@@ -55,6 +54,6 @@ date_format = "Jan 2006"
   SAP Health Platform - A cloud native, healthcare compliant platform for developing and operating microservices on public cloud infrastructure.
   * Developed microservices for ingesting patient and clinical data stored in both structured and unstructured format in an industry standard way to get these data into SAP Health Platform for upstream analysis.
   * Developed API’s for a HL7 message server along with message transformation capabilities to convert the HL7 messages into FHIR form.
-  * Mentored the interns to get on track with technology stack and standard industry practices.
+  * Mentored the interns to get on track with technology stack and standard industry practices. 
   """
 +++
