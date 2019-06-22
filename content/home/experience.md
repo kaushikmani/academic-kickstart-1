@@ -24,7 +24,8 @@ date_format = "Jan 2006"
   location = "Columbus"
   date_start = "2018-10-01"
   date_end = ""
-  description = "Exploring deep learning strategies to improve quality of information extracted from    clinical notes. Advisor: [Dr. Huan Sun] (http://web.cse.ohio-state.edu/~sun.397/)."
+  description = "Exploring deep learning strategies to improve quality of information extracted from clinical notes. <br />
+  Advisor: [Dr. Huan Sun] (http://web.cse.ohio-state.edu/~sun.397/)."
 
 
 [[experience]]
