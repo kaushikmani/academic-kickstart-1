@@ -35,8 +35,8 @@ date_format = "Jan 2006"
   date_start = "2019-01-01"
   date_end = "2019-05-06"
   description = """Responsbilities include:
-  * Instructor for CSE 1222 – Introduction to Computer Programming in C++ for Engineers and Scientists.
-  * The course is designed to provide students with basics of C++ such as loops, conditionals, functions, arrays, file input and output and pointers along with a programming lab experience.
+  * Instructor for CSE 1222 – Introduction to Computer Programming in C++ for Engineers and Scientists. <br />
+  * The course is designed to provide students with basics of C++ such as loops, conditionals, functions, arrays, file input and output and pointers along with a programming lab experience. <br />
   * Conducted classes, labs and graded the exams, assignments for 80 students."""
   
  [[experience]]
@@ -46,14 +46,14 @@ date_format = "Jan 2006"
   location = "Bengaluru, India"
   date_start = "2015-07-20"
   date_end = "2018-07-10"
-  description = """SAP Connected Health Platform: An On-Premise solution for enabling the processing and real-time analysis of big medical data.
-  * Worked on the development of Plugin Framework and Data Integration which act as a framework for integration of healthcare data from external source systems into the clinical data warehouse.
-  * Developed features like Profile Chaining, Profile Scheduling and UI Integration in Data Integration framework which helped in automating the process of bringing the healthcare data from the external source systems.
-  * Maintained the production code by writing unit tests and fixing issues during AT phases.
+  description = """SAP Connected Health Platform: An On-Premise solution for enabling the processing and real-time analysis of big medical data. <br />
+  * Worked on the development of Plugin Framework and Data Integration which act as a framework for integration of healthcare data from external source systems into the clinical data warehouse. <br />
+  * Developed features like Profile Chaining, Profile Scheduling and UI Integration in Data Integration framework which helped in automating the process of bringing the healthcare data from the external source systems. <br />
+  * Maintained the production code by writing unit tests and fixing issues during AT phases. <br />
   
-  SAP Health Platform - A cloud native, healthcare compliant platform for developing and operating microservices on public cloud infrastructure.
-  * Developed microservices for ingesting patient and clinical data stored in both structured and unstructured format in an industry standard way to get these data into SAP Health Platform for upstream analysis.
-  * Developed API’s for a HL7 message server along with message transformation capabilities to convert the HL7 messages into FHIR form.
-  * Mentored the interns to get on track with technology stack and standard industry practices. 
+  SAP Health Platform - A cloud native, healthcare compliant platform for developing and operating microservices on public cloud infrastructure. <br />
+  * Developed microservices for ingesting patient and clinical data stored in both structured and unstructured format in an industry standard way to get these data into SAP Health Platform for upstream analysis. <br />
+  * Developed API’s for a HL7 message server along with message transformation capabilities to convert the HL7 messages into FHIR form. <br />
+  * Mentored the interns to get on track with technology stack and standard industry practices. <br />
   """
 +++
