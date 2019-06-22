@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Kaushik Mani
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Graduate Student in Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: The Ohio State University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Deep Learning
+- Natural Language Processing
+- Software Engineering
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Masters in Computer Science
+    institution: The Ohio State University
+    year: 2020 (Expected)
+  - course: B.Tech in Electronics and Communication Engineering
+    institution: National Institute of Technology, Tiruchirappalli
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -45,15 +42,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://linkedin.com/in/kaushikmani
+- icon: medium
+  icon_pack: fb
+  link: https://medium.com/@kaushikmani
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/kaushikmani
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -66,10 +63,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
-- Visitors
+`[]`
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Kaushik Mani is a Master's student in Computer Science at The Ohio State University. A highly motivated technology enthusiast, Kaushik is highly interested in the area of Deep Learning and Natural Language Processing. Currently, he is working as a Graduate Student Researcher, exploring deep learning strategies to improve extraction of information from clinical notes.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+He was also a Graduate Teaching Assistant for CSE 1222 - Introduction to Computer Programming in C++ for Engineers and Scientists from Jan 2019 to May 2019. Prior to joining OSU, Kaushik worked as a Software Developer at SAP Labs, India as a part of SAP Health platform team where he was working on developing an on-premise and cloud based solution for enabling processing and performing real-time analysis of big medical data. He has also been instrumental in developing a solution for Indian Cancer project where he leveraged the capabilities of SAP Connected Health platform to collect, curate and analyse data to improve cancer treatment for patients in India.
