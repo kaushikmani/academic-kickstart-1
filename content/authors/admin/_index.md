@@ -62,7 +62,7 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups: `[]`
+# user_groups: `[]`
 ---
 
 Kaushik Mani is a Master's student in Computer Science at The Ohio State University. A highly motivated technology enthusiast, Kaushik is highly interested in the area of Deep Learning and Natural Language Processing. Currently, he is working as a Graduate Student Researcher, exploring deep learning strategies to improve extraction of information from clinical notes.
